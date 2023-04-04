@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    cursor: default;
+}
+
+a {
+    text-decoration: none;
+}
+
+mark {
+    padding: 0;
+    background-color: #fe8;
+}
